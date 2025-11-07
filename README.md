@@ -1,11 +1,22 @@
+# PulseConnect
 
-  # Mobile App Prototype for PulseConnect
+PulseConnect is a simple and intuitive mobile healthcare companion app that helps users
+manage their daily medical needs in an easier way. The interface includes features like:
 
-  This is a code bundle for Mobile App Prototype for PulseConnect. The original project is available at https://www.figma.com/design/Zgn2syfuDgDSfT9xQN9nZ4/Mobile-App-Prototype-for-PulseConnect.
+• Medication reminders  
+• Doctor appointment scheduling  
+• Nearby hospital locator  
+• A multilingual health chatbot  
+• A clean and minimal dashboard
 
-  ## Running the code
+This repository contains the complete frontend for the PulseConnect UI.
 
-  Run `npm i` to install the dependencies.
+## Running the project
+1. Install all dependencies using: npm install
+2. Start the development server using: npm run dev
 
-  Run `npm run dev` to start the development server.
-  
+## Tech Stack
+React  
+TypeScript  
+Vite  
+CSS Modules
